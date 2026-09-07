@@ -2,6 +2,10 @@
 
 A time-series forecasting project and interactive dashboard analyzing the price fluctuations of consumer goods across major UK supermarkets. The project utilizes Auto-ARIMA models to predict future price trends, comparing "Own Brand" vs. "National Brand" resilience and identifying price war patterns among top product categories.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://supermarket-price-forecasting-using-arima-5cnvr5j7qpqijrvxohvt.streamlit.app/)
+
+**Live Demo:** [Supermarket Price Forecasting & Analytics Dashboard)](https://supermarket-price-forecasting-using-arima-5cnvr5j7qpqijrvxohvt.streamlit.app/)
+
 ## 📊 Data Source
 
 The raw data used to train the forecasting models is the **[Time Series UK Supermarket Data](https://www.kaggle.com/datasets/declanmcalinden/time-series-uk-supermarket-data)** from Kaggle. 
