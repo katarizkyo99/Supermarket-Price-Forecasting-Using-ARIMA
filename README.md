@@ -82,5 +82,3 @@ streamlit run app.py
 4. Open the provided local URL (typically `http://localhost:8501`) in your browser to interact with the dashboard.
 
 ```
-
-```
