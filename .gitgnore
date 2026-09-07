@@ -1,0 +1,10 @@
+# Ignore raw Kaggle datasets
+All_Data_*.csv
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+.ipynb_checkpoints/
